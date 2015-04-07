@@ -78,7 +78,7 @@ case 1024:  inner.textContent = "飘飘";  break;
 case 2048:  inner.textContent = "佳佳";  break;
 case 4096:  inner.textContent = "常生活";  break;
 case 8192:  inner.textContent = "Ent";  break;
-case 16384:  inner.textContent = "杨烨";  break;
+case 16384:  inner.textContent = "张劲硕";  break;
 case 32768:  inner.textContent = "科脱听友";  break;
 default:  inner.textContent = "error";
 }
